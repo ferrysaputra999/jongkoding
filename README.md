@@ -1,2 +1,2 @@
 # jongkoding
-http://localhost/jongjong/?p=15&amp;preview=true
+http://localhost/jongjong/2020/10/11/biodata-diri-cv/
